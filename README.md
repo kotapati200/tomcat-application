@@ -7,5 +7,10 @@ If you have an existing Tomcat 9 application, you can use the [Tomcat Jakarta EE
 ## Deploy to App Service
 
 ToDo
-Hi Hello this is my first commit about the poll scm 
+Hi Hello,
+again i am back to the class and changed some information in the previous commit..
+
+bye meet you in next class..
+
+thank you
 
